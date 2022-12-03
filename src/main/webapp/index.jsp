@@ -13,7 +13,8 @@ var gn=document.forms["f1"]["r1"].value;
 var db=document.forms["f1"]["tf5"].value;
 var bran=document.forms["f1"]["branch"].value;
 document.write(fn);
-document.write(ln);
+
+document.writeln(ln);
 document.write(en);
 document.write(mn);
 document.write(add);
