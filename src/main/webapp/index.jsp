@@ -12,13 +12,13 @@ var mn=document.forms["f1"]["tf4"].value;
 var gn=document.forms["f1"]["r1"].value;
 var db=document.forms["f1"]["tf5"].value;
 var bran=document.forms["f1"]["branch"].value;
-document.write(bran);
 document.write(fn);
 document.write(ln);
 document.write(en);
 document.write(mn);
 document.write(add);
 document.write(gn);
+document.write(bran);
 document.write(db);
 }
 </script>
